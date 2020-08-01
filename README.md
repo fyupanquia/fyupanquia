@@ -16,16 +16,16 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/visual-studio-code.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/html.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/css.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/sass.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/javascript.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/react.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/nodejs.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/sql.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/mysql.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/mongodb.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/git.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/github.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/terminal.png" />][https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/visual-studio-code.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/html.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/css.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/sass.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/javascript.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/react.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/nodejs.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/sql.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/mysql.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/mongodb.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/git.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/github.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/terminal.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
