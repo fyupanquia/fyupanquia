@@ -30,5 +30,5 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/postgresql.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/git.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/github.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/aws.jpg" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/terminal.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/aws.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
