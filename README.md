@@ -13,6 +13,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/fyupanquia)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/wyupanquia)
 
+<br/><br/>
 
 ### Languages and Tools:
 
@@ -26,6 +27,8 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/sql.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/mysql.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/mongodb.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/postgresql.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/git.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/github.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/terminal.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/terminal.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/fyupanquia/fyupanquia/master/icons/aws.png" />](https://www.youtube.com/watch?v=HEQ8x5fAdJE&list=UUWAAUV5pt7h-tXimIXF_7KQ)
