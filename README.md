@@ -1,6 +1,6 @@
 ### Hi there, I'm Frank 👋
 
-## I'm a Writer, Pianist, Developer and Youtube Content Creator!
+## I'm a Writer, Pianist, Full-stack developer and Youtube Content Creator!
 - 🔭 I’m currently studying Architecture of Information ✍
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
